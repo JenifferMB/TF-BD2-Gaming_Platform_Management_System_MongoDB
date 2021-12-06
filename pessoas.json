@@ -1,0 +1,166 @@
+{
+	"pessoas": [{
+			"_id": 1,
+			"nome": "Alison Corporations",
+			"publicadora": [{
+				"endereco": "Rua Jacinto Pinto, 60",
+				"tempo_atuacao": 4,
+				"jogos_publicados": []
+			}]
+		},
+		{
+			"_id": 2,
+			"nome": "Andressa Corporations",
+			"publicadora": [{
+				"endereco": "Rua Borges de Medeiros, 345",
+				"tempo_atuacao": 3,
+				"jogos_publicados": []
+			}]
+		},
+
+		{
+			"_id": 3,
+			"nome": "André Devs",
+			"desenvolvedor": [{
+				"endereco": "Rua Otávio Rocha, 322",
+				"tempo_atuacao": 2,
+				"jogos_desenvolvidos": []
+			}]
+		},
+		{
+			"_id": 4,
+			"nome": "Alison Devs",
+			"desenvolvedor": [{
+				"endereco": "Rua Otávio Rocha, 322",
+				"tempo_atuacao": 2,
+				"jogos_desenvolvidos": []
+			}]
+		},
+		{
+			"_id": 5,
+			"nome": "Jeniffer Devs",
+			"desenvolvedor": [{
+				"endereco": "Av.João Pessoa, 472",
+				"tempo_atuacao": 2,
+				"jogos_desenvolvidos": []
+			}]
+		},
+		{
+			"_id": 6,
+			"nome": "Andressa Devs",
+			"desenvolvedor": [{
+				"endereco": "Rua Otávio Rocha, 322",
+				"tempo_atuacao": 2,
+				"jogos_desenvolvidos": []
+			}]
+		},
+
+		{
+			"_id": 7,
+			"nome": "Gabe",
+			"usuario": [{
+				"apelido": "gamergodxX",
+				"bibliteoca_de_jogos": [{
+					"jogo": "Battlefield",
+					"registro de salvamento": "btf.sv"
+				}, {
+					"jogo": "Call of Duty",
+					"registro de salvamento": "cod.sv"
+				}],
+				"comunidades": [2, 4],
+				"compras": [4, 5]
+			}]
+		},
+		{
+			"_id": 8,
+			"nome": "John",
+			"usuario": [{
+				"apelido": "johnseerxd",
+				"bibliteoca_de_jogos": [{
+					"jogo": "Disco Elysium",
+					"registro de salvamento": "dce.sv"
+				}],
+				"comunidades": [1],
+				"compras": [1]
+			}]
+		},
+		{
+			"_id": 9,
+			"nome": "anderson",
+			"usuario": [{
+				"apelido": "andermaxx54",
+				"bibliteoca_de_jogos": [{
+					"jogo": "Grand Theft Auto IV",
+					"registro de salvamento": "gt4.sv"
+				}],
+				"comunidades": [5],
+				"compras": [2]
+
+			}]
+		},
+		{
+			"_id": 10,
+			"nome": "Jessey",
+			"usuario": [{
+				"apelido": "Jesskitten",
+				"bibliteoca_de_jogos": [{
+					"jogo": "Grand Theft Auto V",
+					"registro de salvamento": "gt5.sv"
+				}],
+				"comunidades": [3],
+				"compras": [3]
+			}]
+		},
+		{
+			"_id": 11,
+			"nome": "Katey",
+			"usuario": [{
+				"apelido": "katterina",
+				"bibliteoca_de_jogos": [],
+				"comunidades": [],
+				"compras": []
+			}]
+		},
+		{
+			"_id": 12,
+			"nome": "Joriscreison",
+			"usuario": [{
+				"apelido": "mr_Creyson",
+				"bibliteoca_de_jogos": [{
+					"jogo": "Grand Theft Auto IV",
+					"registro de salvamento": "gt4.sv"
+				}],
+				"comunidades": [5],
+				"compras": [6]
+			}]
+		},
+		{
+			"_id": 13,
+			"nome": "Nathan",
+			"usuario": [{
+				"apelido": "nat",
+				"bibliteoca_de_jogos": [],
+				"comunidades": [],
+				"compras": []
+			}]
+		},
+		{
+			"_id": 14,
+			"nome": "Elsa",
+			"usuario": [{
+				"apelido": "frost_elsa",
+				"bibliteoca_de_jogos": [],
+				"comunidades": [],
+				"compras": []
+			}]
+		},
+
+		{
+			"_id": 15,
+			"nome": "Gaben Newell",
+			"admin": [{
+				"nivel_acesso": "maximo"
+			}]
+		}
+	]
+}

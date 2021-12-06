@@ -1,0 +1,52 @@
+{
+    "compras": [
+    {
+        "nota_fiscal": 1,
+        "data": "04/12/2021",
+        "jogos_vendidos":[{
+            "jogo_id": "Disco Elysium",
+            "preco_vendido": 80
+        }]
+    },
+    {
+        "nota_fiscal": 2,
+        "data": "02/12/2021",
+        "jogos_vendidos":[{
+            "jogo_id": "Grand Theft Auto IV",
+            "preco_vendido": 80
+        }]
+    },
+    {
+        "nota_fiscal": 3,
+        "data": "29/11/2021",
+        "jogos_vendidos":[{
+            "jogo_id": "Grand Theft Auto V",
+            "preco_vendido": 66
+        }]
+    },
+    {
+        "nota_fiscal": 4,
+        "data": "25/11/2021",
+        "jogos_vendidos":[{
+            "jogo_id": "Call of Duty",
+            "preco_vendido": 150
+        }]
+    },
+    {
+        "nota_fiscal": 5,
+        "data": "30/11/2021",
+        "jogos_vendidos":[{
+            "jogo_id": "Battlefield",
+            "preco_vendido": 250
+        }]
+    },
+    {
+        "nota_fiscal": 6,
+        "data": "25/11/2021",
+        "jogos_vendidos":[{
+            "jogo_id": "Grand Theft Auto IV",
+            "preco_vendido": 80
+        }]
+    }
+    ]
+}

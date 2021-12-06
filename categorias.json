@@ -1,0 +1,54 @@
+{
+  "categorias": [{
+			"_id": "Acao"
+		},
+		{
+			"_id": "Aventura"
+		},
+		{
+			"_id": "RPG"
+		},
+		{
+			"_id": "luta"
+		},
+		{
+			"_id": "Corrida"
+		},
+		{
+			"_id": "Plataforma"
+		},
+		{
+			"_id": "Casual"
+		},
+		{
+			"_id": "Metroidvania"
+		},
+		{
+			"_id": "Rural"
+		},
+		{
+			"_id": "Gestão"
+		},
+		{
+			"_id": "Tiro"
+		},
+		{
+			"_id": "Primeira pessoa"
+		},
+		{
+			"_id": "Guerra"
+		},
+		{
+			"_id": "Mundo Aberto"
+		},
+		{
+			"_id": "Crime"
+		},
+		{
+			"_id": "Indie"
+		},
+		{
+			"_id": "Exploração"
+		}
+	]
+}

@@ -1,0 +1,178 @@
+{
+    "comunidade": [
+        {
+            "cod_comunidade": 1,
+            "textos": [
+                {
+                    "cod_textos": 1,
+                    "descricao": "textao1"
+                }
+            ],
+            "imagens": [
+                {
+                    "cod_imagens": 1,
+                    "descricao": "imagem1"
+                }
+            ],
+            "mods": [
+                {
+                    "cod_mods": 1,
+                    "descricao": "mod1 campanha"
+                },
+                {
+                    "cod_mods": 2,
+                    "descricao": "mod2 textura"
+                },
+                {
+                    "cod_mods": 3,
+                    "descricao": "mod3 modo de jogo"
+                }
+            ] 
+        },
+        {
+            "cod_comunidade": 2,
+            "textos": [
+                {
+                    "cod_textos": 1,
+                    "descricao": "textao2"
+                }
+            ],
+            "imagens": [
+                {
+                    "cod_imagens": 1,
+                    "descricao": "imagem2"
+                }
+            ],
+            "mods": [
+                {
+                    "cod_mods": 1,
+                    "descricao": "mod1 campanha"
+                },
+                {
+                    "cod_mods": 2,
+                    "descricao": "mod2 textura"
+                },
+                {
+                    "cod_mods": 3,
+                    "descricao": "mod3 modo de jogo"
+                }
+            ] 
+        },
+        {
+            "cod_comunidade": 3,
+            "textos": [
+                {
+                    "cod_textos": 1,
+                    "descricao": "textao3"
+                }
+            ],
+            "imagens": [
+                {
+                    "cod_imagens": 1,
+                    "descricao": "imagem3"
+                }
+            ],
+            "mods": [
+                {
+                    "cod_mods": 1,
+                    "descricao": "mod1 campanha"
+                },
+                {
+                    "cod_mods": 2,
+                    "descricao": "mod2 textura"
+                },
+                {
+                    "cod_mods": 3,
+                    "descricao": "mod3 modo de jogo"
+                }
+            ]  
+        },
+        {
+            "cod_comunidade": 4,
+            "textos": [
+                {
+                    "cod_textos": 1,
+                    "descricao": "textao4"
+                }
+            ],
+            "imagens": [
+                {
+                    "cod_imagens": 1,
+                    "descricao": "imagem4"
+                }
+            ],
+            "mods": [
+                {
+                    "cod_mods": 1,
+                    "descricao": "mod1 campanha"
+                },
+                {
+                    "cod_mods": 2,
+                    "descricao": "mod2 textura"
+                },
+                {
+                    "cod_mods": 3,
+                    "descricao": "mod3 modo de jogo"
+                }
+            ] 
+        },
+        {
+            "cod_comunidade": 5,
+            "textos": [
+                {
+                    "cod_textos": 1,
+                    "descricao": "textao5"
+                }
+            ],
+            "imagens": [
+                {
+                    "cod_imagens": 1,
+                    "descricao": "imagem5"
+                }
+            ],
+            "mods": [
+                {
+                    "cod_mods": 1,
+                    "descricao": "mod1 campanha"
+                },
+                {
+                    "cod_mods": 2,
+                    "descricao": "mod2 textura"
+                },
+                {
+                    "cod_mods": 3,
+                    "descricao": "mod3 modo de jogo"
+                }
+            ] 
+        },
+		{
+            "cod_comunidade": 6,
+            "textos": [
+                {
+                    "cod_textos": 1,
+                    "descricao": "textao4"
+                }
+            ],
+            "imagens": [
+                {
+                    "cod_imagens": 1,
+                    "descricao": "imagem4"
+                }
+            ],
+            "mods": [
+                {
+                    "cod_mods": 1,
+                    "descricao": "mod1 campanha"
+                },
+                {
+                    "cod_mods": 2,
+                    "descricao": "mod2 textura"
+                },
+                {
+                    "cod_mods": 3,
+                    "descricao": "mod3 modo de jogo"
+                }
+            ] 
+        }
+    ]
+}

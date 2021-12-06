@@ -1,0 +1,97 @@
+{
+    "jogos": [
+    {
+        "_id": "Call of Duty",
+        "preco": 150,
+        "avaliacao": 8,
+        "conquistas":[{
+            "_id": 1,
+            "conquista": "Não se enconder"
+        },
+            { 
+            "_id": 2,
+            "conquista": "No modo Campanha: Matar um inimigo atrás de uma parede ou obstrução."
+        }],
+
+        "comunidade":[4],
+
+        "categoria":["Açao","Guerra","Tiro"]
+    },
+
+    {
+        "_id": "Grand Theft Auto V",
+        "preco": 66,
+        "avaliacao": 9,
+        "conquistas":[{
+            "_id:": 3,
+            "conquista": "Bem-vindo a Los Santos - Você retomou um carro e correu com ele pelo centro de uma metrópole ensolarada."
+        }],
+
+        "comunidade":[3],
+
+        "categoria":[ "Açao", "Crime","Mundo Aberto"]
+    },
+
+    {
+        "_id": "Grand Theft Auto IV",
+        "preco": 80,
+        "avaliacao": 8,
+        "conquistas":[{
+            "_id": 4,
+            "conquista": "Complete the first mission"
+        }],
+
+        "comunidade":[5],
+
+        "categoria":["Açao","Crime","Mundo Aberto"]
+    },
+
+    {
+        "_id": "Grand Theft Auto III",
+        "preco": 65,
+        "avaliacao": 7,
+        "conquistas":[{
+            "_id": 5,
+            "conquista": "Complete 100% do jogo, entre missões principais e secundárias"
+        }],
+
+        "comunidade":[6],
+
+        "categoria":["Açao", "Crime", "Mundo Aberto"]
+    },
+
+    {
+        "_id": "Disco Elysium",
+        "preco": 80,
+        "avaliacao": 9,
+        "conquistas":[{
+            "_id": 6,
+            "conquista" : "Quebrar 5 objetos inanimados"
+        },
+		{
+            "_id": 7,
+            "conquista" : "Quebrar 10 objetos inanimados",
+			"possui_pre_req":[6]
+        }],
+
+        "comunidade":[1],
+
+        "categoria":["RPG","Indie"]
+    },
+
+    {
+        "_id": "Battlefield",
+        "preco": 250,
+        "avaliacao": 8,
+        "conquistas":[{
+            "_id": 8,
+            "conquista" : "No modo Campanha, mate um inimigo atrás de uma parede ou obstrução."
+        }],
+
+        "comunidade":[2],
+
+        "categoria":[ "Açao", "Guerra", "Tiro"]
+    }
+    
+] 
+}
